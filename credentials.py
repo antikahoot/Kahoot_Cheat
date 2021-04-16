@@ -1,5 +1,5 @@
 #Email
-email = ""
+email = "hvzenmusic@gmail.com"
 
 #Password
-password = ""
+password = "Andreika1504"
